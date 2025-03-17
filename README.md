@@ -13,6 +13,7 @@ Passionate about **low-level programming**, **operating systems**, and **bare-me
 ![NASM](https://img.shields.io/badge/-NASM-000000?style=flat&logo=nasm&logoColor=white)
 ![GCC](https://img.shields.io/badge/-GCC-00599C?style=flat&logo=gcc&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f45d1319-c9c7-4102-8940-ccd060051fd5/deploy-status)](https://app.netlify.com/sites/startling-lollipop-94e180/deploys)
 
 ---
 
