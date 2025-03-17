@@ -1,7 +1,18 @@
-### Loxsete | Low-Level Enthusiast  
+# Loxsete | Low-Level Enthusiast  
 **Coding in C & x86 Assembly | OS Dev & Kernel Hacking**  
 
 Passionate about **low-level programming**, **operating systems**, and **bare-metal coding**. Specializing in **C** and **x86 Assembly**, I dive deep into system internals, optimizations, and pushing the limits of hardware and software.  
+
+---
+
+### 🛠️ Technologies & Tools  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/-x86_Assembly-8E0E00?style=flat&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
+![NASM](https://img.shields.io/badge/-NASM-000000?style=flat&logo=nasm&logoColor=white)
+![GCC](https://img.shields.io/badge/-GCC-00599C?style=flat&logo=gcc&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 
 ---
 
@@ -25,11 +36,18 @@ Passionate about **low-level programming**, **operating systems**, and **bare-me
 - **Kernel & OS Development**  
 - **Reverse Engineering & Bare-Metal Programming**  
 
+---
 
+### 🖥️ My Stack  
+- **Languages:** C, x86 Assembly, Python  
+- **Tools:** QEMU, Mousepad, NASM, GCC  
+- **OS:** Arch Linux  
 
 ---
 
-🔗 **Connect with me on GitHub:**  
-[Loxsete's GitHub Profile](https://github.com/Loxsete)  
+🔗 **Connect with me:**  
+- **Telegram:** [@Loxsete](https://t.me/Loxsete)  
+- **Discord:** @bratxz  
+- **GitHub:** [Loxsete's GitHub Profile](https://github.com/Loxsete)  
 
-Let’s build something amazing together! 🚀
+Let’s build something amazing together! 🚀  
