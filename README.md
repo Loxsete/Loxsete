@@ -1,82 +1,53 @@
+# Loxsete | Low-Level Enthusiast  
+**Coding in C & x86 Assembly | OS Dev & Kernel Hacking**  
 
-
-
----
-
-Loxsete | Low-Level Enthusiast
-
-Coding in C & x86 Assembly | OS Dev & Kernel Hacking
-
-🔹 Passionate about low-level programming, operating systems, and bare-metal coding.
-🔹 Specializing in C and x86 Assembly, exploring system internals, optimizations, and hardware interaction.
-🔹 Building custom kernels and operating systems from scratch.
-
+Passionate about **low-level programming**, **operating systems**, and **bare-metal coding**. Specializing in **C** and **x86 Assembly**, I dive deep into system internals, optimizations, and pushing the limits of hardware and software.  
 
 ---
 
-⚡ Technologies & Tools
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 🛠️ Technologies & Tools  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/-x86_Assembly-8E0E00?style=flat&logo=assemblyscript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
+![NASM](https://img.shields.io/badge/-NASM-000000?style=flat&logo=nasm&logoColor=white)
+![GCC](https://img.shields.io/badge/-GCC-00599C?style=flat&logo=gcc&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f45d1319-c9c7-4102-8940-ccd060051fd5/deploy-status)](https://app.netlify.com/sites/startling-lollipop-94e180/deploys)
 
 ---
 
-🚀 Notable Projects
+### **Notable Projects**  
 
-🛠 x16-PRos – Custom x86 OS
+- **x16-PRos – Custom x86 OS**  
+  A custom operating system built from scratch for x86 architecture. Dive into the world of OS development and explore how systems work at their core.  
+  [GitHub Repository](https://github.com/PRoX2011/x16-PRos)  
 
-🔹 A custom operating system built from scratch for x86 architecture.
-🔹 Dive into OS development and explore how systems work at their core.
-🔗 GitHub Repository
+- **C-Kernel – Minimalistic C-based Kernel**  
+  A minimalistic kernel written in C, designed for learning and experimentation. Perfect for those interested in kernel development and low-level systems.  
+  [GitHub Repository](https://github.com/Loxsete/C-kernel)  
 
-🖥️ C-Kernel – Minimalistic C-based Kernel
-
-🔹 A minimalistic kernel written in C, designed for learning and experimentation.
-🔹 Perfect for those interested in kernel development and low-level systems.
-🔗 GitHub Repository
-
-🔬 Kernel2 – Experimental Kernel Project
-
-🔹 An experimental kernel exploring advanced concepts in kernel design and optimization.
-🔗 GitHub Repository
-
+- **Kernel2 – Experimental Kernel Project**  
+  An experimental kernel project aimed at exploring advanced concepts in kernel design and optimization.  
+  [GitHub Repository](https://github.com/Loxsete/Kernel2)  
 
 ---
 
-🏴 What I Do
-
-✔ Kernel & OS Development
-✔ Reverse Engineering & Bare-Metal Programming
-✔ Low-Level Optimization & Hardware Hacking
-
+### **What I Do**  
+- **Kernel & OS Development**  
+- **Reverse Engineering & Bare-Metal Programming**  
 
 ---
 
-🛠️ My Stack
-
-🔹 Languages: C, x86 Assembly, Python
-🔹 Tools: QEMU, NASM, GCC, Makefile
-🔹 OS: Arch Linux + Hyperland
-
+### 🖥️ My Stack  
+- **Languages:** C, x86 Assembly, Python  
+- **Tools:** QEMU, Mousepad, NASM, GCC  
+- **OS:** Arch Linux  
 
 ---
 
-🔗 Connect with Me
-
-📡 Telegram: @Loxsete
-🎮 Discord: @bratxz
-🐙 GitHub: Loxsete
-
-
-
-
+🔗 **Connect with me:**  
+- **Telegram:** [@Loxsete](https://t.me/Loxsete)  
+- **Discord:** @bratxz  
+- **GitHub:** [Loxsete's GitHub Profile](https://github.com/Loxsete)
+- 
