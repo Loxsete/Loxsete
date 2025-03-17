@@ -1,16 +1,18 @@
-## Hi there 👋
+Loxsete | Low-Level Enthusiast
 
-<!--
-**Loxsete/Loxsete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coding in C & x86 Assembly | OS Dev & Kernel Hacking
 
-Here are some ideas to get you started:
+Low-level programming, operating systems, and bare-metal coding. Specializing in C and x86 Assembly, diving deep into system internals and optimizations.
+Notable Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    x16-PRos – Custom x86 OS: GitHub
+    C-Kernel – Minimalistic C-based kernel: GitHub
+    Kernel2 – Experimental kernel project: GitHub
+
+What I Do
+
+    Kernel & OS Development
+    Reverse Engineering & Bare-Metal Programming
+
+Always pushing the limits of hardware and software. Check out my projects and reach out.
+
