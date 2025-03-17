@@ -25,7 +25,7 @@ Passionate about **low-level programming**, **operating systems**, and **bare-me
 - **Kernel & OS Development**  
 - **Reverse Engineering & Bare-Metal Programming**  
 
-Always pushing the boundaries of what’s possible with hardware and software. Check out my projects, and feel free to reach out for collaborations or discussions!  
+
 
 ---
 
