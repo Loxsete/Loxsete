@@ -31,6 +31,9 @@ A minimalistic kernel written in C, designed for learning and experimentation. P
 ### ⚡ Kernel2 – Experimental Kernel Project  
 An experimental kernel project aimed at exploring advanced concepts in kernel design and optimization.  
 🔗 **[GitHub Repository](https://github.com/Loxsete/Kernel2)**  
+### 🎮 x86 Emulator – 8086 CPU Emulator  
+A functional x86 emulator with text and VGA graphics modes, supporting basic 8086 instructions and BIOS interrupts. Built with SDL2 for visualization.  
+🔗 **[GitHub Repository](https://github.com/Loxsete/86emulator)**  
 
 ---
 
