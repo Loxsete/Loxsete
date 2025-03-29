@@ -5,6 +5,14 @@ Passionate about **low-level programming**, **operating systems**, and **bare-me
 
 ---
 
+## 🖥️ Hardware Setup  
+- **CPU:** AMD Ryzen 4 4650 PRO  
+- **RAM:** 16GB DDR4  
+- **Motherboard:** Biostar A320MH  
+- **Storage:** 480GB HDD + 960GB HDD  
+
+---
+
 ## 🛠️ Technologies & Tools  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-x86_Assembly-8E0E00?style=flat&logo=assemblyscript&logoColor=white)
@@ -21,18 +29,19 @@ Passionate about **low-level programming**, **operating systems**, and **bare-me
 ## 🚀 Notable Projects  
 
 ### 🖥️ x16-PRos – Custom x86 OS  
-A custom operating system built from scratch for x86 architecture. Dive into the world of OS development and explore how systems work at their core.  
+A custom operating system built from scratch for x86 architecture.  
 🔗 **[GitHub Repository](https://github.com/PRoX2011/x16-PRos)**  
 
 ### 🔥 C-Kernel – Minimalistic C-based Kernel  
-A minimalistic kernel written in C, designed for learning and experimentation. Perfect for those interested in kernel development and low-level systems.  
+A minimalistic kernel written in C for learning and experimentation.  
 🔗 **[GitHub Repository](https://github.com/Loxsete/C-kernel)**  
 
 ### ⚡ Kernel2 – Experimental Kernel Project  
-An experimental kernel project aimed at exploring advanced concepts in kernel design and optimization.  
+Advanced concepts in kernel design and optimization.  
 🔗 **[GitHub Repository](https://github.com/Loxsete/Kernel2)**  
+
 ### 🎮 x86 Emulator – 8086 CPU Emulator  
-A functional x86 emulator with text and VGA graphics modes, supporting basic 8086 instructions and BIOS interrupts. Built with Alergi for visualization.  
+Functional x86 emulator with text/VGA graphics modes.  
 🔗 **[GitHub Repository](https://github.com/Loxsete/86emulator)**  
 
 ---
@@ -55,7 +64,7 @@ A functional x86 emulator with text and VGA graphics modes, supporting basic 808
 
 ---
 
-## 📬 Connect with me  
+## 📬 Connect  
 📢 **Telegram:** [@Loxsete](https://t.me/Loxsete)  
 💬 **Discord:** @bratxz  
-🐱 **GitHub:** [Loxsete's GitHub Profile](https://github.com/Loxsete)
+🐱 **GitHub:** [Loxsete](https://github.com/Loxsete)  
