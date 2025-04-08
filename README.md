@@ -44,7 +44,7 @@ Advanced concepts in kernel design and optimization.
 Functional x86 emulator with text/VGA graphics modes.  
 🔗 **[GitHub Repository](https://github.com/Loxsete/86emulator)**
 
-## 🧮 x16_calc – Simple x86 Calculator
+### 🧮 x16_calc – Simple x86 Calculator
 
 A basic calculator for x86 written in Assembly, supporting addition, subtraction, multiplication, and division.
 🔗 **[GitHub Repository](https://github.com/Loxsete/x16_calc)**
