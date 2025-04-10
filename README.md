@@ -44,6 +44,10 @@ Advanced concepts in kernel design and optimization.
 Functional x86 emulator with text/VGA graphics modes.  
 🔗 **[GitHub Repository](https://github.com/Loxsete/86emulator)**
 
+### 🖥️ x16-kernel - New my own kernel project
+This kernel is written in x16 assembler and is my second new project.
+🔗 **[GitHub Repository](https://github.com/Loxsete/x16-kernel/)**
+
 ---
 
 ## 📊 GitHub Stats  
