@@ -46,6 +46,7 @@ Functional x86 emulator with text/VGA graphics modes.
 
 ### 🖥️ x16-kernel - New my own kernel project
 This kernel is written in x16 assembler and is my second new project.
+
 🔗 **[GitHub Repository](https://github.com/Loxsete/x16-kernel/)**
 
 ---
