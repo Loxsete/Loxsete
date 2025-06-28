@@ -26,35 +26,39 @@ Passionate about **low-level programming**, **operating systems**, and **bare-me
 
 ---
 
-## 🚀 Notable Projects  
+## Notable Projects  
 
-### 🖥️ x16-PRos – Custom x86 OS  
+### x16-PRos – Custom x86 OS  
 A custom operating system built from scratch for x86 architecture.  
 🔗 **[GitHub Repository](https://github.com/PRoX2011/x16-PRos)**  
 
-### 🔥 C-Kernel – Minimalistic C-based Kernel  
+### MPKG - simple, standalone package manager
+Simple package manager allows you to install binaries without junk
+🔗 **[GitHub Repository](https://github.com/Loxsete/mpkg-base)**  
+
+### C-Kernel – Minimalistic C-based Kernel  
 A minimalistic kernel written in C for learning and experimentation.  
 🔗 **[GitHub Repository](https://github.com/Loxsete/C-kernel)**  
 
-### ⚡ Kernel2 – Experimental Kernel Project  
+### Kernel2 – Experimental Kernel Project  
 Advanced concepts in kernel design and optimization.  
 🔗 **[GitHub Repository](https://github.com/Loxsete/Kernel2)**  
 
-### 🎮 x86 Emulator – 8086 CPU Emulator  
+### x86 Emulator – 8086 CPU Emulator  
 Functional x86 emulator with text/VGA graphics modes.  
 🔗 **[GitHub Repository](https://github.com/Loxsete/86emulator)**
 
-### 🖥️ x16-kernel - New my own kernel project
+### x16-kernel - New my own kernel project
 This kernel is written in x16 assembler and is my second new project.
 
 🔗 **[GitHub Repository](https://github.com/Loxsete/x16-kernel/)**
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![Loxsete's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Loxsete&show_icons=true&theme=radical)  
 
-### 🔥 Most Used Languages  
+### Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loxsete&layout=compact&theme=radical)  
 
 ### 📈 GitHub Activity Graph  
