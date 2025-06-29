@@ -11,7 +11,7 @@ Low-level programming and OS development with C and x86 Assembly.
 ## Tech
 - C, x86 Assembly, Python
 - QEMU, NASM, GCC
-- Arch Linux
+- Void linux, Arch linux
 
 ## Projects
 - **x16-PRos**: Custom x86 OS  
