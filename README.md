@@ -1,6 +1,8 @@
 # Loxsete
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Download+C-kernel+please)](https://git.io/typing-svg)
 
 Low-level programming and OS development with C and x86 Assembly.
+
 
 ## Hardware
 - CPU: AMD Ryzen 4 4650 PRO
@@ -9,9 +11,9 @@ Low-level programming and OS development with C and x86 Assembly.
 - Storage: 480GB SDD + 960GB SDD
 
 ## Tech
-- C, x86 Assembly, Python
+- C, x86 Assembly
 - QEMU, NASM, GCC
-- Void linux, Arch linux
+- Void linux, Arch linux, Debian linux, DOS
 
 ## Projects
 - **x16-PRos**: Custom x86 OS  
