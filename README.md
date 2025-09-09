@@ -1,38 +1,59 @@
-# Loxsete
+# loxsete
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Download+C-kernel+please)](https://git.io/typing-svg)
+    systems programmer / os developer
 
-Low-level programming and OS development with C and x86 Assembly.
+## about
 
-## Hardware
-- **CPU**: AMD Ryzen 4 4650 PRO
-- **RAM**: 16GB DDR4
-- **Motherboard**: Biostar A320MH
-- **Storage**: 480GB SSD + 960GB SSD
+    low-level programming with c and x86 assembly
+    building kernels, emulators, and bare-metal software
+    understanding computer architecture from silicon up
 
-## Tech
-- **Languages**: C, x86 Assembly
-- **Tools**: QEMU, NASM, GCC
-- **Systems**: Void Linux, Arch Linux, Debian Linux, DOS
+## hardware
 
-## Projects
-- **x16-PRos**: Custom x86 OS  
-  [GitHub](https://github.com/PRoX2011/x16-PRos)
-- **CHIP-8 Emulator**: CHIP-8 emulator  
-  [GitHub](https://github.com/Loxsete/CHIP-8)
-- **MyCPU_MyAss**: Custom VM and assembler  
-  [GitHub](https://github.com/Loxsete/MyCPU_MyAss)
-- **MPKG**: Simple package manager  
-  [GitHub](https://github.com/Loxsete/mpkg-base)
-- **C-Kernel**: Minimal C kernel  
-  [GitHub](https://github.com/Loxsete/C-kernel)
-- **Kernel2**: Experimental kernel  
-  [GitHub](https://github.com/Loxsete/Kernel2)
-- **x86 Emulator**: 8086 CPU emulator  
-  [GitHub](https://github.com/Loxsete/86emulator)
-- **x16-kernel**: x16 Assembly kernel  
-  [GitHub](https://github.com/Loxsete/x16-kernel)
+    cpu     amd ryzen 4 4650 pro
+    ram     16gb ddr4
+    board   biostar a320mh
+    storage 480gb + 960gb ssd
 
-## Connect
-- **Telegram**: [@Loxsete](https://t.me/Loxsete)
-- **GitHub**: [Loxsete](https://github.com/Loxsete)
+## software
+
+    lang    c, x86 assembly
+    tools   qemu, nasm, gcc
+    os      void linux, arch linux, debian, dos
+
+## projects
+
+### kernels
+    x16-pros    custom x86 operating system
+                https://github.com/PRoX2011/x16-PRos
+    
+    c-kernel    minimal kernel in c
+                https://github.com/Loxsete/C-kernel
+    
+    kernel2     experimental kernel
+                https://github.com/Loxsete/Kernel2
+    
+    x16-kernel  assembly kernel for x16
+                https://github.com/Loxsete/x16-kernel
+
+### emulators
+    chip-8      chip-8 virtual machine
+                https://github.com/Loxsete/CHIP-8
+    
+    86emulator  8086 cpu emulator
+                https://github.com/Loxsete/86emulator
+    
+    mycpu       custom vm with assembler
+                https://github.com/Loxsete/MyCPU_MyAss
+
+### tools
+    mpkg        lightweight package manager
+                https://github.com/Loxsete/mpkg-base
+
+## contact
+
+    github      https://github.com/Loxsete
+    telegram    https://t.me/Loxsete
+
+---
+    $ whoami && uname -a
