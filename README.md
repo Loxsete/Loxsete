@@ -10,7 +10,7 @@
 
 ## hardware
 
-    cpu     amd ryzen 4 4650 pro
+    cpu     amd ryzen 4 4650G pro
     ram     16gb ddr4
     board   biostar a320mh
     storage 480gb + 960gb ssd
@@ -19,7 +19,7 @@
 
     lang    c, x86 assembly
     tools   qemu, nasm, gcc
-    os      void linux, arch linux, debian, dos
+    os      void linux, arch linux, debian, dos, free bsd
 
 ## projects
 
