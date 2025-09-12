@@ -50,6 +50,9 @@
     mpkg        lightweight package manager
                 https://github.com/Loxsete/mpkg-base
 
+    twm         lightweight WM
+                https://github.com/Loxsete/twm
+
 ## contact
 
     github      https://github.com/Loxsete
