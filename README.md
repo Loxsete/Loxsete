@@ -27,8 +27,8 @@ i also play electric guitar. I love heavy music, like Death, Pantera, Curtan wal
     </a>
 </p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=Loxsete&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loxsete&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=6)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Loxsete&theme=dark)](https://git.io/streak-stats)
+
 
 ## tech stack
 
