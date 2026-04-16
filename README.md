@@ -28,7 +28,7 @@ i also play electric guitar. I love heavy music, like Death, Pantera, Curtan wal
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Loxsete&theme=dark)](https://git.io/streak-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Loxsete&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
 
 ## tech stack
 
