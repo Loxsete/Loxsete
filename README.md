@@ -10,9 +10,12 @@ i also play electric guitar. I love heavy music, like Death, Pantera, Curtan wal
 
 ## about me
 
-🔭 participating in the development of [x16-PRoS](https://github.com/Loxsete/x16-PRoS) — 16-bit real-mode OS in NASM<br>
-🛠 building [idiot-compiler](https://github.com/Loxsete/idiot-compiler) — my compiler<br>
-🎮 [lxt](https://github.com/Loxsete/lxt) — C project manager<br>
+💾 [x16-PRoS](https://github.com/Loxsete/x16-PRoS) — participating in the development of 16-bit real-mode OS in NASM<br>
+🛠 [idiot-compiler](https://github.com/Loxsete/idiot-compiler) — my compiler<br>
+🖥️ [lxt](https://github.com/Loxsete/lxt) — C project manager<br>
+🪨 [silex](https://github.com/Loxsete/Silex) — x64 kernel
+
+
 
 🌐 [loxsete.io](https://loxsete.github.io/)<br>
 
